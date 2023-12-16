@@ -1,0 +1,3 @@
+[submodule "market_pro"]
+	path = market_pro
+	url = https://github.com/RazBux/STOCKS_PRO.git
